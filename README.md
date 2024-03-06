@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Laiba Javaid
-- 👀 I’m currently a student of Software Engineering.
+- 👀 I’m currently a Software Engineering Student.
 - 🌱 I’m currently learning Java, Javascript and PHP.
 - 💬 Ask me about C++,  DSA, HTML, CSS, Boostrap and React Native.
 - 📫 How to reach me: laibajavaid423@gmail.com
