@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Laiba Javaid<br>👀 I’m currently a Software Engineering Student.<br>🌱 I’m currently learning Java, Javascript and PHP.<br>💬 Ask me about C++, Java, DSA, HTML5, CSS3, Boostrap5, React and React Native.<br>📫 How to reach me: laibajavaid423@gmail.com<br>😄 Pronouns: She/Her<br>⚡ Fun fact: In the chaos of code, I find my ease.
+👋 Hi, I’m Laiba Javaid<br>👀 I’m a Software Engineer with a passion for AI and Machine Learning.<br>🌱 I’m currently focusing on improving my skills in AI and ML.<br>💬 Ask me about Python, LLms, RAG, Typescript, Java, DSA, HTML5, CSS3, Boostrap5, React and React Native.<br>📫 How to reach me: laibajavaid423@gmail.com<br>😄 Pronouns: She/Her<br>⚡ Fun fact: In the chaos of code, I find my ease.
 
 
 ## 🌐 Socials:
